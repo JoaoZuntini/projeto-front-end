@@ -1,0 +1,64 @@
+.nav-link a{
+    /* quero atacar o a dentro do nav link */
+    color:bisque;
+    text-decoration: none;
+    /* tirar o anderline */
+    font-size: 1.2rem;
+    /* rem é unidade de medida escalar. funciona como porcentagem. tem o texto padrao ,ex:16, se coloca 1.1 rem é 10% a mais que o original */
+    padding: 5px;
+}
+
+.nav-link a:hover{
+    /* hover, quando o mouse está sobre ele */
+    background-color: darkslategray;
+    border-radius: 5px;
+}
+
+.container{
+    border-radius: 10px;
+}
+
+.container button{
+    background-color:rgb(117, 84, 45);
+    /* para atacar somente o button dentro do container */
+    border-color:rgb(117, 84, 45);
+    color:bisque ;
+}
+
+.container button:hover{
+    background-color:bisque;
+    color:rgb(117, 84, 45)
+    /* aqui eu peguei o hover (quando o mouse esta em cima) em mudei a cor de fundo dele e a cir do texto para o inverso, ou seja, quandi ele não está com o mouse em cima */
+}
+
+#p-dif{
+    columns: 3;
+    gap: 30px;
+    text-align:center;
+}
+
+.grade-exemplo {
+    padding: 30px;
+    background-color: #f2f2f2;
+}
+
+.bloco {
+    width: 100%;
+    min-height: 100px;
+}
+
+/* Amarelo */
+.amarelo {
+    background-color: #e5ad00;
+}
+
+/* Rosa */
+.rosa {
+    background-color: #d9004f;
+    min-height: 130px;
+}
+
+/* Azul */
+.azul {
+    background-color: #5685e5;
+}
