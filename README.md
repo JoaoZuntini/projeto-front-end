@@ -1,8 +1,8 @@
-\# Projeto Front-end
+**Projeto Front-end**
 
 
 
-\## Sobre o projeto
+**Sobre o projeto**
 
 
 
@@ -14,17 +14,17 @@ O objetivo do projeto é aplicar conhecimentos de desenvolvimento de páginas we
 
 
 
-\## Tecnologias utilizadas
+**Tecnologias utilizadas**
 
 
 
-\- HTML5
+- HTML5
 
-\- CSS3
+- CSS3
 
 
 
-\## Objetivo do repositório
+**Objetivo do repositório**
 
 
 
@@ -32,7 +32,7 @@ Este repositório foi criado para organizar, versionar e apresentar o desenvolvi
 
 
 
-\## Autor
+**Autor**
 
 
 
